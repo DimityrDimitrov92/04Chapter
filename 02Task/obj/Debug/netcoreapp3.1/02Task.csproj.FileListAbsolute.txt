@@ -1,0 +1,13 @@
+C:\Users\Димитър\source\repos\04Chapter\02Task\bin\Debug\netcoreapp3.1\02Task.exe
+C:\Users\Димитър\source\repos\04Chapter\02Task\bin\Debug\netcoreapp3.1\02Task.deps.json
+C:\Users\Димитър\source\repos\04Chapter\02Task\bin\Debug\netcoreapp3.1\02Task.runtimeconfig.json
+C:\Users\Димитър\source\repos\04Chapter\02Task\bin\Debug\netcoreapp3.1\02Task.runtimeconfig.dev.json
+C:\Users\Димитър\source\repos\04Chapter\02Task\bin\Debug\netcoreapp3.1\02Task.dll
+C:\Users\Димитър\source\repos\04Chapter\02Task\bin\Debug\netcoreapp3.1\02Task.pdb
+C:\Users\Димитър\source\repos\04Chapter\02Task\obj\Debug\netcoreapp3.1\02Task.csprojAssemblyReference.cache
+C:\Users\Димитър\source\repos\04Chapter\02Task\obj\Debug\netcoreapp3.1\02Task.AssemblyInfoInputs.cache
+C:\Users\Димитър\source\repos\04Chapter\02Task\obj\Debug\netcoreapp3.1\02Task.AssemblyInfo.cs
+C:\Users\Димитър\source\repos\04Chapter\02Task\obj\Debug\netcoreapp3.1\02Task.csproj.CoreCompileInputs.cache
+C:\Users\Димитър\source\repos\04Chapter\02Task\obj\Debug\netcoreapp3.1\02Task.dll
+C:\Users\Димитър\source\repos\04Chapter\02Task\obj\Debug\netcoreapp3.1\02Task.pdb
+C:\Users\Димитър\source\repos\04Chapter\02Task\obj\Debug\netcoreapp3.1\02Task.genruntimeconfig.cache
