@@ -1,0 +1,12 @@
+D:\KursoveLondon\solutions\04Chapter\06Task\bin\Debug\netcoreapp3.1\06Task.exe
+D:\KursoveLondon\solutions\04Chapter\06Task\bin\Debug\netcoreapp3.1\06Task.deps.json
+D:\KursoveLondon\solutions\04Chapter\06Task\bin\Debug\netcoreapp3.1\06Task.runtimeconfig.json
+D:\KursoveLondon\solutions\04Chapter\06Task\bin\Debug\netcoreapp3.1\06Task.runtimeconfig.dev.json
+D:\KursoveLondon\solutions\04Chapter\06Task\bin\Debug\netcoreapp3.1\06Task.dll
+D:\KursoveLondon\solutions\04Chapter\06Task\bin\Debug\netcoreapp3.1\06Task.pdb
+D:\KursoveLondon\solutions\04Chapter\06Task\obj\Debug\netcoreapp3.1\06Task.AssemblyInfoInputs.cache
+D:\KursoveLondon\solutions\04Chapter\06Task\obj\Debug\netcoreapp3.1\06Task.AssemblyInfo.cs
+D:\KursoveLondon\solutions\04Chapter\06Task\obj\Debug\netcoreapp3.1\06Task.csproj.CoreCompileInputs.cache
+D:\KursoveLondon\solutions\04Chapter\06Task\obj\Debug\netcoreapp3.1\06Task.dll
+D:\KursoveLondon\solutions\04Chapter\06Task\obj\Debug\netcoreapp3.1\06Task.pdb
+D:\KursoveLondon\solutions\04Chapter\06Task\obj\Debug\netcoreapp3.1\06Task.genruntimeconfig.cache

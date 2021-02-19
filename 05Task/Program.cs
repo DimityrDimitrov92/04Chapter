@@ -12,19 +12,11 @@ namespace _05Task
             int firstNumber = int.Parse(Console.ReadLine());
             Console.Write("Enter second number : ");
             int secondNumber = int.Parse(Console.ReadLine());
-            if (firstNumber > secondNumber)
-            {
-                biggestNumber = firstNumber;
-                smallerNumber = secondNumber;
-            }
-            else
-            {
-                biggestNumber = secondNumber;
-                smallerNumber = firstNumber;
-            }
+            biggestNumber = Math.Max(firstNumber, secondNumber);
+            smallerNumber = Math.Min(firstNumber, secondNumber);
             for (int i = smallerNumber; i <= biggestNumber; i++)
             {
-                if (i % 5 ==0)
+                if (i % 5 == 0)
                 {
                     Console.WriteLine(i);
                     i++;
